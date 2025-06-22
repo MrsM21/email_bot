@@ -1,6 +1,8 @@
-# Bot de E-mails Automáticos com Python
+![Capa do Projeto](capa.png)
 
-Este projeto automatiza o envio de e-mails com mensagens personalizadas a partir de uma planilha Excel.
+# 📬 Bot de E-mails Automáticos com Python
+
+Automatize o envio de e-mails personalizados com Python e planilhas Excel. Ideal para cobranças, notificações e lembretes de forma automatizada.
 
 ## Funcionalidades
 
