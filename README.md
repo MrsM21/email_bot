@@ -1,4 +1,4 @@
-![Capa do Projeto](capa.png)
+![Capa do Projeto](capa_nova.png)
 
 # 📬 Bot de E-mails Automáticos com Python
 
