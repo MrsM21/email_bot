@@ -18,8 +18,13 @@ Sua Empresa
 
 # Função para enviar e-mail
 def enviar_email(destinatario, assunto, mensagem):
-    remetente = "python.teste.automacao@gmail.com"
-    senha = "tbzg ztmm nuuk wsto"
+    import os
+from dotenv import load_dotenv
+load_dotenv()
+
+remetente = os.getenv("EMAIL_REMETENTE")
+senha = os.getenv("SENHA_DO_APP")
+
 
     msg = MIMEMultipart()
     msg["From"] = remetente
