@@ -44,7 +44,5 @@ SENHA_DO_APP=sua_senha_de_aplicativo
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais informações.
 
-## Contato
-
-Feito com 💙 por [MrsM21](https://github.com/MrsM21)
+Feito com 💙 por [NeusaM21](https://github.com/NeusaM21)
 
