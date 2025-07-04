@@ -47,5 +47,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## Contato
 
 Feito com 💙 por [MrsM21](https://github.com/MrsM21)
-📧 Email: ne2101@hotmail.com
 
